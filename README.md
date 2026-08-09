@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Subhash%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=subhashganta5-bot&label=Profile%20Views&color=1BFFFF&style=flat" alt="Profile Views"/>
+<img src="https://raw.githubusercontent.com/subhashganta5-bot/subhashganta5-bot/main/assets/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Real+Insights;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=50&color=1BFFFF&vCenter=true&size=24" alt="Typing SVG" />
