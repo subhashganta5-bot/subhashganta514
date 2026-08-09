@@ -51,32 +51,32 @@ Data Analyst who turns messy job-market data into decision-ready Power BI dashbo
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-2C5E92?style=for-the-badge&logo=powers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-2C5E92?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Reporting-6c757d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Accuracy-6c757d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-6c757d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Reporting-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Accuracy-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-FF5722?style=for-the-badge"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dashboard%20Development-F2C811?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Row--Level%20Security-F2C811?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dashboard%20Development-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Row--Level%20Security-FFC107?style=for-the-badge&logoColor=black"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/SSMS%20Querying-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Warehousing%20(OLTP%2FOLAP)-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Design-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Warehousing%20(OLTP%2FOLAP)-03A9F4?style=for-the-badge"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XLOOKUP%2FFILTER%2FINDEX-217346?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Automation-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XLOOKUP%2FFILTER%2FINDEX-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Automation-009688?style=for-the-badge"/>
 </p>
 
 ---
