@@ -69,7 +69,7 @@ I'm **Subhash Ganta**, a **Data Analyst** at the start of my career, passionate 
 
 ## 📌 Featured Project
 
-**[AI & Tech Job Market Analysis – Power BI](https://github.com/subhashganta5-bot/AI-Tech-Job-Market-Analysis-PowerBI)**
+**[AI & Tech Job Market Analysis](https://github.com/subhashganta5-bot/AI-Tech-Job-Market-Analysis-PowerBI)**
 
 An end-to-end data analytics project analyzing AI & Tech job market trends using **SQL Server** and **Power BI** — covering salaries, hiring trends, remote work, company size, and skills demand.
 
