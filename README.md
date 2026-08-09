@@ -1,77 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Subhash%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=subhashganta5-bot&label=Profile%20Views&color=1BFFFF&style=flat" alt="Profile Views"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Real+Insights;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=50&color=1BFFFF&vCenter=true&size=24" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/subhashganta5-bot/subhashganta5-bot/main/assets/header.svg" width="100%"/>
 
 </div>
 
----
+## About
 
-## About Me
+Data Analyst focused on turning raw, messy data into decision-ready dashboards. Built an end-to-end SQL Server + Power BI project analyzing AI & tech hiring trends across salaries, remote work, and skills demand. Comfortable across the full pipeline — querying and modeling in SQL, building DAX measures, and automating reporting in Excel. Microsoft-certified in Power BI, applying it to real datasets rather than tutorials.
 
-Data Analyst who turns messy job-market data into decision-ready Power BI dashboards. Built an end-to-end SQL Server + Power BI project analyzing AI & tech hiring trends across salaries, remote work, and skills demand. Work across the full pipeline — querying and modeling data in SQL, building DAX measures, and automating reports in Excel. Microsoft-certified in Power BI and actively applying that skill set to real datasets, not tutorials.
-
-- 🔭 Sharpening skills in Power BI dashboard design and SQL querying
-- 🌱 Learning something new in data analytics every week
-- 🎯 Focused on turning raw data into clear, actionable insights
-- ⚡ Prefer cleaning a messy dataset over a messy room
+- Sharpening Power BI dashboard design and SQL querying
+- Currently exploring: data storytelling and report performance optimization
+- Prefer cleaning a messy dataset over a messy room
 
 ---
 
-## Tech Stack
-
-**Core Tools**
+## Core skills
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-2C5E92?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power_Query-666666?style=flat-square"/>
 </p>
 
-**Also Familiar With**
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-2C5E92?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Reporting-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Accuracy-E91E63?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-FF5722?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dashboard%20Development-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Row--Level%20Security-FFC107?style=for-the-badge&logoColor=black"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SSMS%20Querying-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database%20Design-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Warehousing%20(OLTP%2FOLAP)-03A9F4?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XLOOKUP%2FFILTER%2FINDEX-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Automation-009688?style=for-the-badge"/>
-</p>
+Also working with: SQL Server, data modeling, data warehousing (OLTP/OLAP), row-level security, pivot tables, XLOOKUP/FILTER/INDEX.
 
 ---
 
-## Featured Project
+## Featured project
 
-**[AI & Tech Job Market Analysis – Power BI](https://github.com/subhashganta5-bot/AI-Tech-Job-Market-Analysis-PowerBI)**
+**[AI & Tech Job Market Analysis](https://github.com/subhashganta5-bot/AI-Tech-Job-Market-Analysis-PowerBI)** — SQL Server, Power BI
 
-Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market data in SQL Server, then built an interactive Power BI dashboard covering salaries, hiring trends, remote work, company size, and skills demand.
+End-to-end analysis of AI & tech hiring trends. Extracted and modeled job-market data in SQL Server, then built an interactive Power BI dashboard covering salary bands, hiring trends over time, remote-work share, company size, and in-demand skills — designed for a hiring manager or workforce analyst to explore without needing a walkthrough.
+
+*Add 1–2 concrete numbers here if you have them* — e.g. "dataset of X job postings," "identified Y% shift toward remote roles," "surfaced top 10 in-demand skills by salary premium." A specific number is the single highest-leverage edit you can make to this README.
 
 ---
 
@@ -80,38 +43,22 @@ Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market
 - Microsoft Power BI: Get Data in Power BI
 - Microsoft Power BI: Clean, Transform, and Load Data in Power BI
 - Microsoft Power BI: Design Power BI Reports
-- SQL Workshop Certification – DV Analytics
-- AI Tools Workshop Certification – Be10X
+- SQL Workshop Certification — DV Analytics
+- AI Tools Workshop Certification — Be10X
 
 ---
 
-## GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhashganta5-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashganta5-bot&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhashganta5-bot&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhashganta5-bot&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashganta5-bot&layout=compact&theme=default&hide_border=true" width="48%"/>
 </p>
 
 ---
 
 <div align="center">
 
-### Let's Connect
-
-Open to Data Analyst and Business Intelligence opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+Open to Data Analyst and Business Intelligence roles — [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/)
 
 </div>
