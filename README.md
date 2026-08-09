@@ -89,4 +89,29 @@ Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhashganta5-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashganta5-bot&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhashganta5-bot&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Open to Data Analyst and Business Intelligence opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+
+</div>
