@@ -23,20 +23,6 @@ Data Analyst who turns messy job-market data into decision-ready Power BI dashbo
 
 ---
 
-## Core Skills & Keywords
-
-**Data Analysis:** Data Analysis, Data Interpretation, Statistical Analysis, Data Visualization, Reporting, Data Quality Assurance, Data Cleaning, Data Transformation, Trend Analysis, KPI Tracking, Dashboarding
-
-**Business Intelligence:** Business Intelligence, BI Reporting, Power BI (Desktop & Service), Data Modeling, DAX, Power Query, Row-Level Security, Interactive Dashboards, Self-Service BI
-
-**Database & SQL:** SQL, Microsoft SQL Server, SSMS, Query Optimization, Joins, Aggregations, Database Design, Data Warehousing, OLTP, OLAP, ETL
-
-**Spreadsheet & Reporting Tools:** Advanced Microsoft Excel, Pivot Tables, XLOOKUP, FILTER, INDEX-MATCH, Power Query, Report Automation
-
-**Soft Skills:** Analytical Thinking, Problem Solving, Attention to Detail, Stakeholder Communication, Time Management, Cross-Functional Collaboration
-
----
-
 ## Tech Stack
 
 **Core Tools**
@@ -103,29 +89,4 @@ Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhashganta5-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashganta5-bot&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhashganta5-bot&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-Open to Data Analyst and Business Intelligence opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
-
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true"
