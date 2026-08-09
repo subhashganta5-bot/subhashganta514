@@ -41,6 +41,11 @@ I'm **Subhash Ganta**, a **Data Analyst** at the start of my career, passionate 
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+- Data Analysis & Reporting | Data Quality & Accuracy Assurance | Data Cleaning & Transformation
+- Microsoft Power BI (Desktop & Service) – Data Modeling, DAX, Dashboard Development, Row-Level Security
+- SQL & SQL Server Management Studio (SSMS) – Querying, Database Design, Data Warehousing (OLTP/OLAP)
+- Advanced Microsoft Excel – Power Query, Pivot Tables, XLOOKUP/FILTER/INDEX, Data Automation
+
 ---
 
 ## 📌 Featured Project
@@ -50,6 +55,16 @@ I'm **Subhash Ganta**, a **Data Analyst** at the start of my career, passionate 
 </a>
 
 An end-to-end data analytics project analyzing AI & Tech job market trends using **SQL Server** and **Power BI** — covering salaries, hiring trends, remote work, company size, and skills demand.
+
+---
+
+## 📜 Certifications
+
+- Microsoft Power BI: Get Data in Power BI
+- Microsoft Power BI: Clean, Transform, and Load Data in Power BI
+- Microsoft Power BI: Design Power BI Reports
+- SQL Workshop Certification – DV Analytics
+- AI Tools Workshop Certification – Be10X
 
 ---
 
