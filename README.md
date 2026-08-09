@@ -5,25 +5,39 @@
 <img src="https://komarev.com/ghpvc/?username=subhashganta5-bot&label=Profile%20Views&color=1BFFFF&style=flat" alt="Profile Views"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Fresher;SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Real+Insights;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=50&color=1BFFFF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Real+Insights;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=50&color=1BFFFF&vCenter=true&size=24" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm **Subhash Ganta**, a **Data Analyst** at the start of my career, passionate about turning raw numbers into clear, decision-ready insights. I love working with **SQL, Power BI, and Excel** to build dashboards and reports that actually tell a story.
+Data Analyst who turns messy job-market data into decision-ready Power BI dashboards. Built an end-to-end SQL Server + Power BI project analyzing AI & tech hiring trends across salaries, remote work, and skills demand. Work across the full pipeline — querying and modeling data in SQL, building DAX measures, and automating reports in Excel. Microsoft-certified in Power BI and actively applying that skill set to real datasets, not tutorials.
 
-- 🔭 Currently sharpening my skills in **Power BI dashboards & SQL querying**
-- 🌱 Learning something new in the data world every single day
-- 💡 Big believer in **"data tells a story, if you know how to ask the right questions"**
-- ⚡ Fun fact: I'd rather clean a messy dataset than a messy room
+- 🔭 Sharpening skills in Power BI dashboard design and SQL querying
+- 🌱 Learning something new in data analytics every week
+- 🎯 Focused on turning raw data into clear, actionable insights
+- ⚡ Prefer cleaning a messy dataset over a messy room
 
 ---
 
-## 🛠️ Tech Stack
+## Core Skills & Keywords
+
+**Data Analysis:** Data Analysis, Data Interpretation, Statistical Analysis, Data Visualization, Reporting, Data Quality Assurance, Data Cleaning, Data Transformation, Trend Analysis, KPI Tracking, Dashboarding
+
+**Business Intelligence:** Business Intelligence, BI Reporting, Power BI (Desktop & Service), Data Modeling, DAX, Power Query, Row-Level Security, Interactive Dashboards, Self-Service BI
+
+**Database & SQL:** SQL, Microsoft SQL Server, SSMS, Query Optimization, Joins, Aggregations, Database Design, Data Warehousing, OLTP, OLAP, ETL
+
+**Spreadsheet & Reporting Tools:** Advanced Microsoft Excel, Pivot Tables, XLOOKUP, FILTER, INDEX-MATCH, Power Query, Report Automation
+
+**Soft Skills:** Analytical Thinking, Problem Solving, Attention to Detail, Stakeholder Communication, Time Management, Cross-Functional Collaboration
+
+---
+
+## Tech Stack
 
 **Core Tools**
 
@@ -67,15 +81,15 @@ I'm **Subhash Ganta**, a **Data Analyst** at the start of my career, passionate 
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-**[AI & Tech Job Market Analysis](https://github.com/subhashganta5-bot/AI-Tech-Job-Market-Analysis-PowerBI)**
+**[AI & Tech Job Market Analysis – Power BI](https://github.com/subhashganta5-bot/AI-Tech-Job-Market-Analysis-PowerBI)**
 
-An end-to-end data analytics project analyzing AI & Tech job market trends using **SQL Server** and **Power BI** — covering salaries, hiring trends, remote work, company size, and skills demand.
+Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market data in SQL Server, then built an interactive Power BI dashboard covering salaries, hiring trends, remote work, company size, and skills demand.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Microsoft Power BI: Get Data in Power BI
 - Microsoft Power BI: Clean, Transform, and Load Data in Power BI
@@ -85,7 +99,7 @@ An end-to-end data analytics project analyzing AI & Tech job market trends using
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhashganta5-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
@@ -98,7 +112,7 @@ An end-to-end data analytics project analyzing AI & Tech job market trends using
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subhashganta5-bot&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -108,9 +122,9 @@ An end-to-end data analytics project analyzing AI & Tech job market trends using
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let's Connect
 
-I'm always open to chatting about data, dashboards, or new opportunities as a **Data Analyst**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/) — let's build something insightful together!
+Open to Data Analyst and Business Intelligence opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
 
