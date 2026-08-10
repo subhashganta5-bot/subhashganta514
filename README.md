@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Subhash%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=📊%20Hi%20There!%20I'm%20Subhash&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=subhashganta5-bot&label=Profile%20Views&color=1BFFFF&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=subhashganta5-bot&label=Profile%20Views&color=2C5364&style=flat" alt="Profile Views"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Real+Insights;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=50&color=1BFFFF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Real+Insights;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=750&height=45&color=2C5364&vCenter=true&size=20" alt="Typing SVG" />
 </a>
 
 </div>
@@ -89,7 +89,7 @@ Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhashganta5-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=subhashganta5-bot&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
@@ -112,6 +112,6 @@ Analyzed AI & tech hiring trends end-to-end — extracted and modeled job-market
 
 Open to Data Analyst and Business Intelligence opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/subhash-ganta-40301b17b/).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
